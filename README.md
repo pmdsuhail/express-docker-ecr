@@ -1,4 +1,6 @@
 # Mapup Assessment
+[![Build and push Express/EJS image to AWS ECR](https://github.com/pmdsuhail/express-docker-ecr/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/pmdsuhail/express-docker-ecr/actions/workflows/main.yml)
+
 ## Overview
 
 The Project is a streamlined Node.js web application with a comprehensive development and deployment workflow. This project is designed to showcase best practices in web development, containerization with Docker, and continuous integration/continuous deployment (CI/CD) using GitHub Actions
